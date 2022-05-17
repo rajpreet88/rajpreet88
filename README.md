@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajpreet88
 - 👀 I’m interested in Blockchain | Metaverse | NFTs | Web 3.0
-- 🌱 I’m currently learning Full Stack Web 3.0 Development
+- 🌱 I’m currently learning Full Stack Web 3.0 Development | MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
