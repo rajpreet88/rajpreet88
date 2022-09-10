@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Preetam
-- 👀 I’m interested in Blockchain | Metaverse | NFTs | Web 3.0
-- 🌱 I’m currently learning Full Stack Web 3.0 Development | MERN Stack
+- 👀 I’m learning Blockchain | Metaverse | NFTs | Web 3.0
+- 🌱 Embarked on a journey in Full Stack Web 3.0 Development | MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
