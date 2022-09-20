@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Preetam
 - 👀 I’m learning Blockchain | Metaverse | NFTs | Web 3.0
 - 🌱 Embarked on a journey in Full Stack Web 3.0 Development | MERN
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m working on mini projects to gain my experience in FSWD
 - 📫 How to reach me ...
 
 <!---
